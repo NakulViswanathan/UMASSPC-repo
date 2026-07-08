@@ -1,5 +1,4 @@
 """dfit.py 5/8/21 D. Candela
-"""NEW AND IMPROVED VERSION!!!"""
 Module provides a simplified user interface to the nonlinear
 least-squares fitting function scipy.optimize.curve_fit.
 """
